@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "jsoup-1.18.1.jar",
+        "mysql-connector-j-8.0.31-javadoc.jar",
+        "mysql-connector-j-9.1.0.jar"
+    ]
+}

@@ -1,0 +1,198 @@
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\appsettings.json
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\HuongDichVu.exe
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\HuongDichVu.deps.json
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\HuongDichVu.runtimeconfig.json
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\HuongDichVu.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\HuongDichVu.pdb
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\Humanizer.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\obj\Debug\net6.0\HuongDichVu.csproj.AssemblyReference.cache
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\obj\Debug\net6.0\HuongDichVu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\obj\Debug\net6.0\HuongDichVu.AssemblyInfoInputs.cache
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\obj\Debug\net6.0\HuongDichVu.AssemblyInfo.cs
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\obj\Debug\net6.0\HuongDichVu.csproj.CoreCompileInputs.cache
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\obj\Debug\net6.0\HuongDichVu.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\obj\Debug\net6.0\HuongDichVu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\obj\Debug\net6.0\staticwebassets\msbuild.HuongDichVu.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\obj\Debug\net6.0\staticwebassets\msbuild.build.HuongDichVu.props
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HuongDichVu.props
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HuongDichVu.props
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\obj\Debug\net6.0\scopedcss\bundle\HuongDichVu.styles.css
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\obj\Debug\net6.0\HuongDichVu.csproj.CopyComplete
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\obj\Debug\net6.0\HuongDichVu.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\obj\Debug\net6.0\refint\HuongDichVu.dll
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\obj\Debug\net6.0\HuongDichVu.pdb
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\obj\Debug\net6.0\HuongDichVu.genruntimeconfig.cache
+C:\Users\phuon\source\repos\HuongDichVu\HuongDichVu\obj\Debug\net6.0\ref\HuongDichVu.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\appsettings.Development.json
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\appsettings.json
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\libman.json
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\HuongDichVu.exe
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\HuongDichVu.deps.json
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\HuongDichVu.runtimeconfig.json
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\HuongDichVu.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\HuongDichVu.pdb
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Google.Protobuf.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Humanizer.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\MySql.Data.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\System.Text.Json.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\ZstdSharp.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\HuongDichVu.csproj.AssemblyReference.cache
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\HuongDichVu.GeneratedMSBuildEditorConfig.editorconfig
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\HuongDichVu.AssemblyInfoInputs.cache
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\HuongDichVu.AssemblyInfo.cs
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\HuongDichVu.csproj.CoreCompileInputs.cache
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\HuongDichVu.MvcApplicationPartsAssemblyInfo.cs
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\HuongDichVu.MvcApplicationPartsAssemblyInfo.cache
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\staticwebassets\msbuild.HuongDichVu.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\staticwebassets\msbuild.build.HuongDichVu.props
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HuongDichVu.props
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HuongDichVu.props
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\staticwebassets.pack.json
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\staticwebassets.build.json
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\staticwebassets.development.json
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\scopedcss\bundle\HuongDichVu.styles.css
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\HuongDichVu.csproj.CopyComplete
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\HuongDichVu.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\refint\HuongDichVu.dll
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\HuongDichVu.pdb
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\HuongDichVu.genruntimeconfig.cache
+D:\TÀI LIỆU HỌC TẬP\PTPMHuongDVu\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\ref\HuongDichVu.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\appsettings.Development.json
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\appsettings.json
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\libman.json
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\HuongDichVu.exe
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\HuongDichVu.deps.json
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\HuongDichVu.runtimeconfig.json
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\HuongDichVu.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\HuongDichVu.pdb
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Google.Protobuf.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Humanizer.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\MySql.Data.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\System.Text.Json.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\ZstdSharp.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\HuongDichVu.csproj.AssemblyReference.cache
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\HuongDichVu.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\HuongDichVu.AssemblyInfoInputs.cache
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\HuongDichVu.AssemblyInfo.cs
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\HuongDichVu.csproj.CoreCompileInputs.cache
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\HuongDichVu.MvcApplicationPartsAssemblyInfo.cs
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\HuongDichVu.MvcApplicationPartsAssemblyInfo.cache
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\HuongDichVu.sourcelink.json
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\staticwebassets.build.json
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\staticwebassets.development.json
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\staticwebassets\msbuild.HuongDichVu.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\staticwebassets\msbuild.build.HuongDichVu.props
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HuongDichVu.props
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HuongDichVu.props
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\staticwebassets.pack.json
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\scopedcss\bundle\HuongDichVu.styles.css
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\HuongDic.3E45F5FE.Up2Date
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\HuongDichVu.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\refint\HuongDichVu.dll
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\HuongDichVu.pdb
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\HuongDichVu.genruntimeconfig.cache
+D:\DataHDV\H-ng-d-ch-v-group-3\APISystem\HuongDichVu\obj\Debug\net6.0\ref\HuongDichVu.dll
