@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DataHDV\\API\\API\\API\\API.csproj": {}
+    "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\DataHDV\\API\\API\\API\\API.csproj": {
+    "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DataHDV\\API\\API\\API\\API.csproj",
+        "projectUniqueName": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\DataHDV\\API\\API\\API\\API.csproj",
+        "projectPath": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\API.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\DataHDV\\API\\API\\API\\obj\\",
+        "outputPath": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",

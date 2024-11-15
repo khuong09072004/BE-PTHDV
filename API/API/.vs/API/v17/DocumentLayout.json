@@ -1,66 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DataHDV\\API\\API\\",
+  "WorkspaceRootPath": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\api\\api\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\api\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\api\\api\\api\\entities\\web_datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\entities\\web_datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\api\\api\\api\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\api\\api\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\api\\api\\api\\dto\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\dto\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\api\\api\\api\\entities\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\entities\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\api\\api\\api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\h-ng-d-ch-v-group-3\\api\\api\\api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\api\\api\\api\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\h-ng-d-ch-v-group-3\\api\\api\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\h-ng-d-ch-v-group-3\\api\\api\\api\\dto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\dto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\h-ng-d-ch-v-group-3\\api\\api\\api\\entities\\web_datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\entities\\web_datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\h-ng-d-ch-v-group-3\\api\\api\\api\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\h-ng-d-ch-v-group-3\\api\\api\\api\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\api\\api\\api\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\h-ng-d-ch-v-group-3\\api\\api\\api\\entities\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\entities\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\api\\api\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\h-ng-d-ch-v-group-3\\api\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\h-ng-d-ch-v-group-3\\api\\api\\api\\dto\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\dto\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\h-ng-d-ch-v-group-3\\api\\api\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\api\\api\\api\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\h-ng-d-ch-v-group-3\\api\\api\\api\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\api\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\api\\api\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\h-ng-d-ch-v-group-3\\api\\api\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\api\\api\\api\\dto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\dto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\h-ng-d-ch-v-group-3\\api\\api\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\h-ng-d-ch-v-group-3\\api\\api\\api\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\datahdv\\h-ng-d-ch-v-group-3\\api\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,15 +70,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "Login.cs",
-              "DocumentMoniker": "D:\\DataHDV\\API\\API\\API\\DTO\\Login.cs",
+              "DocumentMoniker": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\DTO\\Login.cs",
               "RelativeDocumentMoniker": "API\\DTO\\Login.cs",
-              "ToolTip": "D:\\DataHDV\\API\\API\\API\\DTO\\Login.cs",
+              "ToolTip": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\DTO\\Login.cs",
               "RelativeToolTip": "API\\DTO\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -86,11 +86,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "web_dataContext.cs",
-              "DocumentMoniker": "D:\\DataHDV\\API\\API\\API\\Entities\\web_dataContext.cs",
+              "DocumentMoniker": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\Entities\\web_dataContext.cs",
               "RelativeDocumentMoniker": "API\\Entities\\web_dataContext.cs",
-              "ToolTip": "D:\\DataHDV\\API\\API\\API\\Entities\\web_dataContext.cs",
+              "ToolTip": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\Entities\\web_dataContext.cs",
               "RelativeToolTip": "API\\Entities\\web_dataContext.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAA6wCUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -98,11 +98,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\DataHDV\\API\\API\\API\\Entities\\ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\Entities\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "API\\Entities\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\DataHDV\\API\\API\\API\\Entities\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\Entities\\ApplicationDbContext.cs",
               "RelativeToolTip": "API\\Entities\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAYwBgAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,23 +110,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "BookController.cs",
-              "DocumentMoniker": "D:\\DataHDV\\API\\API\\API\\Controllers\\BookController.cs",
+              "DocumentMoniker": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\BookController.cs",
-              "ToolTip": "D:\\DataHDV\\API\\API\\API\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\Controllers\\BookController.cs",
               "RelativeToolTip": "API\\Controllers\\BookController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAAHkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAkwIwAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T02:29:29.95Z"
+              "WhenOpened": "2024-11-10T02:29:29.95Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Book.cs",
-              "DocumentMoniker": "D:\\DataHDV\\API\\API\\API\\Entities\\Book.cs",
+              "DocumentMoniker": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "API\\Entities\\Book.cs",
-              "ToolTip": "D:\\DataHDV\\API\\API\\API\\Entities\\Book.cs",
+              "ToolTip": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\Entities\\Book.cs",
               "RelativeToolTip": "API\\Entities\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -136,9 +137,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Auth.cs",
-              "DocumentMoniker": "D:\\DataHDV\\API\\API\\API\\Entities\\Auth.cs",
+              "DocumentMoniker": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\Entities\\Auth.cs",
               "RelativeDocumentMoniker": "API\\Entities\\Auth.cs",
-              "ToolTip": "D:\\DataHDV\\API\\API\\API\\Entities\\Auth.cs",
+              "ToolTip": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\Entities\\Auth.cs",
               "RelativeToolTip": "API\\Entities\\Auth.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -146,37 +147,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DataHDV\\API\\API\\API\\Program.cs",
+              "DocumentMoniker": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "D:\\DataHDV\\API\\API\\API\\Program.cs",
+              "ToolTip": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\Program.cs",
               "RelativeToolTip": "API\\Program.cs",
               "ViewState": "AgIAACYAAAAAAAAAAADgvyYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T03:56:07.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T03:56:07.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\DataHDV\\API\\API\\API\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\DataHDV\\API\\API\\API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\Controllers\\AuthController.cs",
               "RelativeToolTip": "API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T07:38:01.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Register.cs",
-              "DocumentMoniker": "D:\\DataHDV\\API\\API\\API\\DTO\\Register.cs",
+              "DocumentMoniker": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\DTO\\Register.cs",
               "RelativeDocumentMoniker": "API\\DTO\\Register.cs",
-              "ToolTip": "D:\\DataHDV\\API\\API\\API\\DTO\\Register.cs",
+              "ToolTip": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\DTO\\Register.cs",
               "RelativeToolTip": "API\\DTO\\Register.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -184,11 +184,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\DataHDV\\API\\API\\API\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\DataHDV\\API\\API\\API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\Properties\\launchSettings.json",
               "RelativeToolTip": "API\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -196,11 +196,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "BookDTO.cs",
-              "DocumentMoniker": "D:\\DataHDV\\API\\API\\API\\DTO\\BookDTO.cs",
+              "DocumentMoniker": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\DTO\\BookDTO.cs",
               "RelativeDocumentMoniker": "API\\DTO\\BookDTO.cs",
-              "ToolTip": "D:\\DataHDV\\API\\API\\API\\DTO\\BookDTO.cs",
+              "ToolTip": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\DTO\\BookDTO.cs",
               "RelativeToolTip": "API\\DTO\\BookDTO.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -208,11 +208,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\DataHDV\\API\\API\\API\\appsettings.Development.json",
+              "DocumentMoniker": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "API\\appsettings.Development.json",
-              "ToolTip": "D:\\DataHDV\\API\\API\\API\\appsettings.Development.json",
+              "ToolTip": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\appsettings.Development.json",
               "RelativeToolTip": "API\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -220,11 +220,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "API.http",
-              "DocumentMoniker": "D:\\DataHDV\\API\\API\\API\\API.http",
+              "DocumentMoniker": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\API.http",
               "RelativeDocumentMoniker": "API\\API.http",
-              "ToolTip": "D:\\DataHDV\\API\\API\\API\\API.http",
+              "ToolTip": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\API.http",
               "RelativeToolTip": "API\\API.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -232,11 +232,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "libman.json",
-              "DocumentMoniker": "D:\\DataHDV\\API\\API\\API\\libman.json",
+              "DocumentMoniker": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\libman.json",
               "RelativeDocumentMoniker": "API\\libman.json",
-              "ToolTip": "D:\\DataHDV\\API\\API\\API\\libman.json",
+              "ToolTip": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\libman.json",
               "RelativeToolTip": "API\\libman.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -244,11 +244,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\DataHDV\\API\\API\\API\\appsettings.json",
+              "DocumentMoniker": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\appsettings.json",
               "RelativeDocumentMoniker": "API\\appsettings.json",
-              "ToolTip": "D:\\DataHDV\\API\\API\\API\\appsettings.json",
+              "ToolTip": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\appsettings.json",
               "RelativeToolTip": "API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
