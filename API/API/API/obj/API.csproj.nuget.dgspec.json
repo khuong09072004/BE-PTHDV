@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DataHDV\\API\\API\\API\\API.csproj": {}
+    "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\DataHDV\\API\\API\\API\\API.csproj": {
+    "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DataHDV\\API\\API\\API\\API.csproj",
+        "projectUniqueName": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\DataHDV\\API\\API\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "D:\\DataHDV\\API\\API\\API\\obj\\",
+        "projectPath": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Google.Apis.Gmail.v1": {
+              "target": "Package",
+              "version": "[1.68.0.3427, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",

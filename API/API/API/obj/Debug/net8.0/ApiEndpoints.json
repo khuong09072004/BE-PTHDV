@@ -17,6 +17,22 @@
   },
   {
     "ContainingType": "WebService.Controllers.AuthController",
+    "Method": "ForgotPassword",
+    "RelativePath": "api/Auth/ForgotPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "API.DTO.ForgotPasswordRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebService.Controllers.AuthController",
     "Method": "GetAuths",
     "RelativePath": "api/Auth/GetAllUser",
     "HttpMethod": "GET",
@@ -68,6 +84,22 @@
       {
         "Name": "auth",
         "Type": "HuongDichVu.DTO.Register",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebService.Controllers.AuthController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/Auth/ResetPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "API.DTO.ResetPasswordRequest",
         "IsRequired": true
       }
     ],
