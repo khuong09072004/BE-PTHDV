@@ -9,11 +9,19 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = API
 build_property.RootNamespace = API
+<<<<<<< HEAD
 build_property.ProjectDir = D:\TLHT\PTPMHuongDVu\BE-PTHDV\API\API\API\
+=======
+build_property.ProjectDir = D:\DataHDV\H-ng-d-ch-v-group-3\API\API\API\
+>>>>>>> f5ea44b62f7ac46494f4f3ccebf8fa33823bc685
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+<<<<<<< HEAD
 build_property.MSBuildProjectDirectory = D:\TLHT\PTPMHuongDVu\BE-PTHDV\API\API\API
+=======
+build_property.MSBuildProjectDirectory = D:\DataHDV\H-ng-d-ch-v-group-3\API\API\API
+>>>>>>> f5ea44b62f7ac46494f4f3ccebf8fa33823bc685
 build_property._RazorSourceGeneratorDebug = 

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "s20HmZTeXOs=",
   "success": true,
   "projectFilePath": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\API.csproj",
+=======
+  "dgSpecHash": "aw2dRxzeAro=",
+  "success": true,
+  "projectFilePath": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\API.csproj",
+>>>>>>> f5ea44b62f7ac46494f4f3ccebf8fa33823bc685
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\google.apis\\1.68.0\\google.apis.1.68.0.nupkg.sha512",

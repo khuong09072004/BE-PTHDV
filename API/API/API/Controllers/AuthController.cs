@@ -64,7 +64,7 @@ namespace WebService.Controllers
                 return Unauthorized("Sai tên đăng nhập hoặc mật khẩu");
 
             // Trả về thông tin vai trò của người dùng
-            return Ok(new { message = "Đăng nhập thành công", role = user.Role });
+            return Ok(new { message = "Đăng nhập thành công",username= user.Username, role = user.Role });
         }
         [HttpGet("GetAllUser")]
         public async Task<IActionResult> GetAuths()

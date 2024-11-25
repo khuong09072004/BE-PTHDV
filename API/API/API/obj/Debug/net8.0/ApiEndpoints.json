@@ -190,6 +190,26 @@
   },
   {
     "ContainingType": "WebService.Controllers.BookController",
+    "Method": "GetGenres",
+    "RelativePath": "api/Book/GetGenres",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebService.Controllers.BookController",
     "Method": "InsertUser",
     "RelativePath": "api/Book/InsertBook",
     "HttpMethod": "POST",
@@ -203,6 +223,37 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebService.Controllers.BookController",
+    "Method": "QuickSearch",
+    "RelativePath": "api/Book/QuickSearch",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "keyword",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "genre",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[HuongDichVu.DTO.BookDTO, API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "WebService.Controllers.BookController",

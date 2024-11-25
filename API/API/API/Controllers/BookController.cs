@@ -137,5 +137,61 @@ namespace WebService.Controllers
 
             return NoContent(); // Trả về 204 No Content khi xóa thành công
         }
+        [HttpGet("QuickSearch")]
+        public async Task<ActionResult<List<BookDTO>>> QuickSearch(string keyword, string? genre)
+        {
+            if (string.IsNullOrEmpty(keyword))
+            {
+                return BadRequest("Vui lòng nhập từ khóa tìm kiếm.");
+            }
+            var query = web_dataContext.Books.AsQueryable();
+            query = query.Where(book => book.Title.Contains(keyword));
+
+            // Nếu có thể loại (genre), thêm điều kiện tìm kiếm theo thể loại
+            if (!string.IsNullOrEmpty(genre))
+            {
+                query = query.Where(book => book.Genre.Contains(genre));
+            }
+
+            var results = await query
+                .Where(book => book.Title.Contains(keyword)) // Tìm kiếm theo tên sách
+                .Select(book => new Book
+                {
+                    Id = book.Id,
+                    Upc = book.Upc,
+                    Title = book.Title,
+                    Genre = book.Genre,
+                    Price = book.Price,
+                    ImgSrc = book.ImgSrc,
+                    StarRating = book.StarRating,
+                    Instock = book.Instock,
+                    NumberAvailable = book.NumberAvailable,
+                    Description = book.Description
+                })
+                .Take(10) // Giới hạn số lượng kết quả trả về
+                .ToListAsync();
+
+            if (results.Count == 0)
+            {
+                return NotFound("Không tìm thấy sách phù hợp với từ khóa.");
+            }
+
+            return Ok(results);
+        }
+        [HttpGet("GetGenres")]
+        public async Task<ActionResult<List<string>>> GetGenres()
+        {
+            var genres = await web_dataContext.Books
+                .Select(book => book.Genre)
+                .Distinct()
+                .ToListAsync();
+
+            if (genres.Count == 0)
+            {
+                return NotFound("Không có thể loại sách nào.");
+            }
+
+            return Ok(genres);
+        }
     }
 }

@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\API.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\API.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
         "outputPath": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\obj\\",
+=======
+    "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\API.csproj": {}
+  },
+  "projects": {
+    "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\API.csproj",
+        "projectName": "API",
+        "projectPath": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+        "outputPath": "D:\\DataHDV\\H-ng-d-ch-v-group-3\\API\\API\\API\\obj\\",
+>>>>>>> f5ea44b62f7ac46494f4f3ccebf8fa33823bc685
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
