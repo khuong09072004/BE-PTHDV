@@ -15,10 +15,76 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Security.Cryptography;
+using System.Text;
 
 
 namespace WebService.Controllers
 {
+    
+    public static class EncryptionHelper
+    {
+        public static string EncryptString(string plainText, string key)
+        {
+            byte[] iv = new byte[16]; // Initialization vector (should be random)
+            byte[] array;
+
+            using (Aes aes = Aes.Create())
+            {
+                aes.Key = Encoding.UTF8.GetBytes(key);
+                aes.IV = iv;
+
+                ICryptoTransform encryptor = aes.CreateEncryptor(aes.Key, aes.IV);
+
+                using (MemoryStream memoryStream = new
+         MemoryStream())
+                {
+                    using (CryptoStream cryptoStream = new CryptoStream((Stream)memoryStream, encryptor, CryptoStreamMode.Write))
+                    {
+                        using (StreamWriter streamWriter = new StreamWriter((Stream)cryptoStream))
+                        {
+                            streamWriter.Write(plainText);
+
+                        }
+
+                        array = memoryStream.ToArray();
+                    }
+                }
+            }
+
+            return Convert.ToBase64String(array);
+
+        }
+
+        // Hàm giải mã chuỗi
+        public static string DecryptString(string cipherText, string key)
+        {
+            byte[] iv = new byte[16]; // Use the same IV as for encryption
+            byte[] buffer = Convert.FromBase64String(cipherText);
+
+            using (Aes aes = Aes.Create())
+            {
+                aes.Key = Encoding.UTF8.GetBytes(key);
+                aes.IV = iv;
+
+                ICryptoTransform decryptor = aes.CreateDecryptor(aes.Key, aes.IV);
+
+                using (MemoryStream memoryStream = new
+         MemoryStream(buffer))
+                {
+                    using (CryptoStream cryptoStream = new CryptoStream((Stream)memoryStream, decryptor, CryptoStreamMode.Read))
+                    {
+                        using (StreamReader streamReader = new StreamReader((Stream)cryptoStream))
+                        {
+                            return streamReader.ReadToEnd();
+
+                        }
+                    }
+                }
+            }
+        }
+    }
+
     [Route("api/[controller]")]
     [ApiController]
     public class AuthController : ControllerBase
@@ -42,8 +108,8 @@ namespace WebService.Controllers
             var user = new Auth
             {
                 Username = auth.Username,
-                Password = auth.Password,
-                Email = auth.Email,
+                Password = EncryptionHelper.EncryptString(auth.Password, "1234567890123456"), // Mã hóa mật khẩu
+                Email = EncryptionHelper.EncryptString(auth.Email, "1234567890123456"),           // Mã hóa email
                 Role = "User"
             };
 
@@ -58,7 +124,10 @@ namespace WebService.Controllers
         public async Task<IActionResult> Login([FromBody] Login loginUser)
         {
             var user = await context.Auths
-                .FirstOrDefaultAsync(u => u.Username == loginUser.Username && u.Password == loginUser.Password);
+            .FirstOrDefaultAsync(u =>
+                u.Username == loginUser.Username &&
+                u.Password == EncryptionHelper.EncryptString(loginUser.Password, "1234567890123456") // So sánh mật khẩu đã mã hóa
+            );
 
             if (user == null)
                 return Unauthorized("Sai tên đăng nhập hoặc mật khẩu");
@@ -70,6 +139,14 @@ namespace WebService.Controllers
         public async Task<IActionResult> GetAuths()
         {
             var users = await context.Auths.ToListAsync();
+
+            // Giải mã email cho mỗi người dùng
+            foreach (var user in users)
+            {
+                user.Email = EncryptionHelper.DecryptString(user.Email, "1234567890123456");
+                user.Password = EncryptionHelper.DecryptString(user.Password, "1234567890123456");
+            }
+
             return Ok(users);
         }
 
@@ -81,6 +158,8 @@ namespace WebService.Controllers
             if (user == null)
                 return NotFound("Người dùng không tồn tại");
 
+            user.Email = EncryptionHelper.DecryptString(user.Email, "1234567890123456");
+            user.Password = EncryptionHelper.DecryptString(user.Password, "1234567890123456");
             return Ok(user);
         }
 
@@ -94,12 +173,12 @@ namespace WebService.Controllers
 
             // Cập nhật thông tin
             user.Username = auth.Username;
-            user.Email = auth.Email;
+            user.Email = EncryptionHelper.EncryptString(auth.Email, "1234567890123456");
             // Không cập nhật mật khẩu trực tiếp nếu không có yêu cầu, hoặc cần thêm logic mã hóa
-            if (!string.IsNullOrEmpty(auth.Password))
+            if (!string.IsNullOrEmpty(EncryptionHelper.EncryptString(auth.Email, "1234567890123456")))
             {
                 context.Entry(user).Property(u => u.Password).IsModified = true;
-                user.Password = auth.Password; // Nên mã hóa mật khẩu trước khi lưu
+                user.Password = EncryptionHelper.EncryptString(auth.Password, "1234567890123456"); 
             }
 
             await context.SaveChangesAsync();
@@ -126,10 +205,10 @@ namespace WebService.Controllers
         public async Task<IActionResult> ForgotPassword([FromBody] ForgotPasswordRequest request)
         {
             // Kiểm tra xem người dùng có tồn tại không
-            var user = await context.Auths.FirstOrDefaultAsync(u => u.Email == request.Email);
+            var user = await context.Auths.FirstOrDefaultAsync(u => (u.Email == EncryptionHelper.EncryptString(request.Email, "1234567890123456") && u.Username == request.Username));
             if (user == null)
             {
-                return NotFound("Email không tồn tại");
+                return NotFound("Tài khoản không tồn tại");
             }
 
             // Tạo mã token (ví dụ: sử dụng GUID)
@@ -141,7 +220,7 @@ namespace WebService.Controllers
 
             // Gửi email chứa liên kết đặt lại mật khẩu
             string resetLink = $"{resetToken}"; 
-            await SendResetPasswordEmailAsync(user.Email, resetLink);
+            await SendResetPasswordEmailAsync(EncryptionHelper.DecryptString(user.Email, "1234567890123456"), resetLink);
 
             return Ok("Yêu cầu đặt lại mật khẩu đã được gửi đến email của bạn");
         }
@@ -149,8 +228,6 @@ namespace WebService.Controllers
         // Hàm gửi email
         private async Task SendResetPasswordEmailAsync(string toEmail, string resetLink)
         {
-
-            UserCredential credential;
 
             var fromAddress = new MailAddress("duydaokhuong9@gmail.com","duydaokhuong9"); // Thay thế bằng email của bạn
             var toAddress = new MailAddress(toEmail);
@@ -190,7 +267,7 @@ namespace WebService.Controllers
             }
 
             // Cập nhật mật khẩu
-            user.Password = request.NewPassword;
+            user.Password =  EncryptionHelper.EncryptString(request.NewPassword, "1234567890123456");
             user.ResetToken = null; // Xóa token sau khi sử dụng
             await context.SaveChangesAsync();
 

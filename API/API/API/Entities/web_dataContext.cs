@@ -21,7 +21,7 @@ namespace HuongDichVu.Entities
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseMySQL("server=localhost;port=3306;user=root;password=Duong1997@;database=web_data");
+                optionsBuilder.UseMySQL("server=localhost;port=3306;user=root;password=Daokhuongduy@1;database= data");
             }
         }
 
