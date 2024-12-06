@@ -17,6 +17,7 @@ using System.IO;
 using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
+using Org.BouncyCastle.Tsp;
 
 
 namespace WebService.Controllers
@@ -103,6 +104,8 @@ namespace WebService.Controllers
             // Kiểm tra trùng lặp Username
             if (await context.Auths.AnyAsync(u => u.Username == auth.Username))
                 return BadRequest("Username đã tồn tại");
+            if (await context.Auths.AnyAsync(u => u.Email == EncryptionHelper.EncryptString(auth.Email, "1234567890123456")))
+                return BadRequest("Email đã tồn tại");
 
             // Mặc định vai trò là "User"
             var user = new Auth
@@ -205,7 +208,7 @@ namespace WebService.Controllers
         public async Task<IActionResult> ForgotPassword([FromBody] ForgotPasswordRequest request)
         {
             // Kiểm tra xem người dùng có tồn tại không
-            var user = await context.Auths.FirstOrDefaultAsync(u => (u.Email == EncryptionHelper.EncryptString(request.Email, "1234567890123456") && u.Username == request.Username));
+            var user = await context.Auths.FirstOrDefaultAsync(u => (u.Email == EncryptionHelper.EncryptString(request.Email, "1234567890123456")));
             if (user == null)
             {
                 return NotFound("Tài khoản không tồn tại");
@@ -256,6 +259,7 @@ namespace WebService.Controllers
             }
         }
 
+        
         [HttpPost("ResetPassword")]
         public async Task<IActionResult> ResetPassword([FromBody] ResetPasswordRequest request)
         {
@@ -265,7 +269,10 @@ namespace WebService.Controllers
             {
                 return BadRequest("Token không hợp lệ");
             }
-
+            if (request.ConfirmPassword != request.NewPassword)
+            {
+                return BadRequest("Mật khẩu không khớp!");
+            }
             // Cập nhật mật khẩu
             user.Password =  EncryptionHelper.EncryptString(request.NewPassword, "1234567890123456");
             user.ResetToken = null; // Xóa token sau khi sử dụng

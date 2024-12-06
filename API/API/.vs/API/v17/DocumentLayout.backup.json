@@ -11,16 +11,48 @@
       "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\dto\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\tlht\\ptpmhuongdvu\\be-pthdv\\api\\api\\api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\tlht\\ptpmhuongdvu\\be-pthdv\\api\\api\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\tlht\\ptpmhuongdvu\\be-pthdv\\api\\api\\api\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\tlht\\ptpmhuongdvu\\be-pthdv\\api\\api\\api\\entities\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\entities\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\tlht\\ptpmhuongdvu\\be-pthdv\\api\\api\\api\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\tlht\\ptpmhuongdvu\\be-pthdv\\api\\api\\api\\dto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\dto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\tlht\\ptpmhuongdvu\\be-pthdv\\api\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\tlht\\ptpmhuongdvu\\be-pthdv\\api\\api\\api\\entities\\web_datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\entities\\web_datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\tlht\\ptpmhuongdvu\\be-pthdv\\api\\api\\api\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\tlht\\ptpmhuongdvu\\be-pthdv\\api\\api\\api\\dto\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\dto\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\tlht\\ptpmhuongdvu\\be-pthdv\\api\\api\\api\\dto\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\dto\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\tlht\\ptpmhuongdvu\\be-pthdv\\api\\api\\api\\entities\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\entities\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,33 +62,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Register.cs",
-              "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\DTO\\Register.cs",
-              "RelativeDocumentMoniker": "API\\DTO\\Register.cs",
-              "ToolTip": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\DTO\\Register.cs",
-              "RelativeToolTip": "API\\DTO\\Register.cs",
+              "Title": "API.http",
+              "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\API.http",
+              "RelativeDocumentMoniker": "API\\API.http",
+              "ToolTip": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\API.http",
+              "RelativeToolTip": "API\\API.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T09:21:18.965Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-02T02:04:50.595Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ResetPasswordRequest.cs",
-              "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\DTO\\ResetPasswordRequest.cs",
-              "RelativeDocumentMoniker": "API\\DTO\\ResetPasswordRequest.cs",
-              "ToolTip": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\DTO\\ResetPasswordRequest.cs",
-              "RelativeToolTip": "API\\DTO\\ResetPasswordRequest.cs",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:03:30.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\Book.cs",
+              "ToolTip": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Entities\\Book.cs",
+              "RelativeToolTip": "API\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:03:25.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "web_dataContext.cs",
+              "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Entities\\web_dataContext.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\web_dataContext.cs",
+              "ToolTip": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Entities\\web_dataContext.cs",
+              "RelativeToolTip": "API\\Entities\\web_dataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:03:22.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\DTO\\Login.cs",
+              "RelativeDocumentMoniker": "API\\DTO\\Login.cs",
+              "ToolTip": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\DTO\\Login.cs",
+              "RelativeToolTip": "API\\DTO\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T09:21:17.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T02:03:17.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\DTO\\BookDTO.cs",
+              "RelativeDocumentMoniker": "API\\DTO\\BookDTO.cs",
+              "ToolTip": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\DTO\\BookDTO.cs",
+              "RelativeToolTip": "API\\DTO\\BookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:01:11.599Z"
             },
             {
               "$type": "Document",
@@ -64,24 +142,11 @@
               "Title": "ForgotPasswordRequest.cs",
               "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\DTO\\ForgotPasswordRequest.cs",
               "RelativeDocumentMoniker": "API\\DTO\\ForgotPasswordRequest.cs",
-              "ToolTip": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\DTO\\ForgotPasswordRequest.cs",
-              "RelativeToolTip": "API\\DTO\\ForgotPasswordRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "ToolTip": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\DTO\\ForgotPasswordRequest.cs*",
+              "RelativeToolTip": "API\\DTO\\ForgotPasswordRequest.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T09:20:47.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Auth.cs",
-              "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Entities\\Auth.cs",
-              "RelativeDocumentMoniker": "API\\Entities\\Auth.cs",
-              "ToolTip": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Entities\\Auth.cs",
-              "RelativeToolTip": "API\\Entities\\Auth.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T01:49:55.717Z",
               "EditorCaption": ""
             },
             {
@@ -92,10 +157,70 @@
               "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
               "ToolTip": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Controllers\\AuthController.cs",
               "RelativeToolTip": "API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAMcAAAAAAAAAAAAqwNIAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAwwOEAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T01:31:25.195Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Controllers\\BookController.cs",
+              "RelativeToolTip": "API\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:59:31.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Entities\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Entities\\ApplicationDbContext.cs",
+              "RelativeToolTip": "API\\Entities\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:03:20.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Entities\\Auth.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\Auth.cs",
+              "ToolTip": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Entities\\Auth.cs",
+              "RelativeToolTip": "API\\Entities\\Auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:49:55.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResetPasswordRequest.cs",
+              "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\DTO\\ResetPasswordRequest.cs",
+              "RelativeDocumentMoniker": "API\\DTO\\ResetPasswordRequest.cs",
+              "ToolTip": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\DTO\\ResetPasswordRequest.cs",
+              "RelativeToolTip": "API\\DTO\\ResetPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:21:17.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\DTO\\Register.cs",
+              "RelativeDocumentMoniker": "API\\DTO\\Register.cs",
+              "ToolTip": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\DTO\\Register.cs",
+              "RelativeToolTip": "API\\DTO\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:21:18.965Z"
             }
           ]
         }

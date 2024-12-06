@@ -1,6 +1,22 @@
 [
   {
     "ContainingType": "WebService.Controllers.AuthController",
+    "Method": "ConfirmToken",
+    "RelativePath": "api/Auth/Confirm Token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebService.Controllers.AuthController",
     "Method": "DeleteAuth",
     "RelativePath": "api/Auth/DeleteAccount/{id}",
     "HttpMethod": "DELETE",
