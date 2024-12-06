@@ -2,7 +2,7 @@
   {
     "ContainingType": "WebService.Controllers.AuthController",
     "Method": "ConfirmToken",
-    "RelativePath": "api/Auth/Confirm Token",
+    "RelativePath": "api/Auth/ConfirmToken",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,

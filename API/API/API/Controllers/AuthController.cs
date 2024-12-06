@@ -18,6 +18,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 using Org.BouncyCastle.Tsp;
+using Org.BouncyCastle.Asn1.Ocsp;
 
 
 namespace WebService.Controllers
@@ -258,18 +259,30 @@ namespace WebService.Controllers
 
             }
         }
-
+        [HttpPost("ConfirmToken")]
+        public async Task<IActionResult> ConfirmToken([FromBody] string token)
+        {
+            var user = await context.Auths.FirstOrDefaultAsync(u => u.ResetToken == token);
+            if (user == null)
+            {
+                return BadRequest("Token không hợp lệ");
+            }
+            user.ResetToken = "acessToChangePassword";
+            await context.SaveChangesAsync();
+            return Ok("Token hop le!");
+        }
         
         [HttpPost("ResetPassword")]
         public async Task<IActionResult> ResetPassword([FromBody] ResetPasswordRequest request)
         {
             // Kiểm tra token
-            var user = await context.Auths.FirstOrDefaultAsync(u => u.ResetToken == request.Token);
-            if (user == null)
+            if (request == null)
             {
-                return BadRequest("Token không hợp lệ");
+                return BadRequest("Hay nhap mat khau");
             }
-            if (request.ConfirmPassword != request.NewPassword)
+            var user = await context.Auths.FirstOrDefaultAsync(u => u.ResetToken == "acessToChangePassword");
+           
+            if (!request.ConfirmPassword.Equals( request.NewPassword) )
             {
                 return BadRequest("Mật khẩu không khớp!");
             }
