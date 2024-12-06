@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\tlht\\ptpmhuongdvu\\be-pthdv\\api\\api\\api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\tlht\\ptpmhuongdvu\\be-pthdv\\api\\api\\api\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\tlht\\ptpmhuongdvu\\be-pthdv\\api\\api\\api\\entities\\web_datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\entities\\web_datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\tlht\\ptpmhuongdvu\\be-pthdv\\api\\api\\api\\dto\\viewincrementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\dto\\viewincrementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\tlht\\ptpmhuongdvu\\be-pthdv\\api\\api\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +31,8 @@
       "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\dto\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\tlht\\ptpmhuongdvu\\be-pthdv\\api\\api\\api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\tlht\\ptpmhuongdvu\\be-pthdv\\api\\api\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\tlht\\ptpmhuongdvu\\be-pthdv\\api\\api\\api\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\tlht\\ptpmhuongdvu\\be-pthdv\\api\\api\\api\\entities\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\tlht\\ptpmhuongdvu\\be-pthdv\\api\\api\\api\\entities\\web_datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\entities\\web_datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|d:\\tlht\\ptpmhuongdvu\\be-pthdv\\api\\api\\api\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD6D592C-2D28-4DDB-BB32-9D26CD6A1E1E}|API\\API.csproj|solutionrelative:api\\entities\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -62,11 +66,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
+              "Title": "ViewIncrementDTO.cs",
+              "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\DTO\\ViewIncrementDTO.cs",
+              "RelativeDocumentMoniker": "API\\DTO\\ViewIncrementDTO.cs",
+              "ToolTip": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\DTO\\ViewIncrementDTO.cs",
+              "RelativeToolTip": "API\\DTO\\ViewIncrementDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T19:34:46.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
@@ -78,31 +95,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "API\\Entities\\Book.cs",
               "ToolTip": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Entities\\Book.cs",
               "RelativeToolTip": "API\\Entities\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T02:03:25.782Z"
+              "WhenOpened": "2024-12-02T02:03:25.782Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "web_dataContext.cs",
               "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Entities\\web_dataContext.cs",
               "RelativeDocumentMoniker": "API\\Entities\\web_dataContext.cs",
               "ToolTip": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Entities\\web_dataContext.cs",
               "RelativeToolTip": "API\\Entities\\web_dataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwBIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T02:03:22.67Z"
+              "WhenOpened": "2024-12-02T02:03:22.67Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Login.cs",
               "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\DTO\\Login.cs",
               "RelativeDocumentMoniker": "API\\DTO\\Login.cs",
@@ -114,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "BookDTO.cs",
               "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\DTO\\BookDTO.cs",
               "RelativeDocumentMoniker": "API\\DTO\\BookDTO.cs",
@@ -126,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ForgotPasswordRequest.cs",
               "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\DTO\\ForgotPasswordRequest.cs",
               "RelativeDocumentMoniker": "API\\DTO\\ForgotPasswordRequest.cs",
@@ -134,37 +153,37 @@
               "RelativeToolTip": "API\\DTO\\ForgotPasswordRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T09:20:47.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T09:20:47.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
               "ToolTip": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Controllers\\AuthController.cs",
               "RelativeToolTip": "API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAA8BAAAAAAAAAAAcwBsBAABGAAAAAAAAAA==",
+              "ViewState": "AgIAABIBAAAAAAAAAAAcwA4BAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T01:31:25.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "BookController.cs",
               "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\BookController.cs",
               "ToolTip": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Controllers\\BookController.cs",
               "RelativeToolTip": "API\\Controllers\\BookController.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAIwBkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAANwAAAAAAAAAAAAmwPMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T01:59:31.206Z"
+              "WhenOpened": "2024-12-02T01:59:31.206Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ResetPasswordRequest.cs",
               "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\DTO\\ResetPasswordRequest.cs",
               "RelativeDocumentMoniker": "API\\DTO\\ResetPasswordRequest.cs",
@@ -172,12 +191,11 @@
               "RelativeToolTip": "API\\DTO\\ResetPasswordRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T09:21:17.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T09:21:17.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "API.http",
               "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\API.http",
               "RelativeDocumentMoniker": "API\\API.http",
@@ -189,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Entities\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "API\\Entities\\ApplicationDbContext.cs",
@@ -201,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Auth.cs",
               "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\Entities\\Auth.cs",
               "RelativeDocumentMoniker": "API\\Entities\\Auth.cs",
@@ -213,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Register.cs",
               "DocumentMoniker": "D:\\TLHT\\PTPMHuongDVu\\BE-PTHDV\\API\\API\\API\\DTO\\Register.cs",
               "RelativeDocumentMoniker": "API\\DTO\\Register.cs",

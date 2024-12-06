@@ -16,6 +16,7 @@ namespace HuongDichVu.Entities
         {
         }
         public virtual DbSet<Book> Books { get; set; } = null!;
+        public DbSet<DailyViews> DailyViews { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

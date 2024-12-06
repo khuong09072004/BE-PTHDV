@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
+using API.DTO;
 using HuongDichVu.DTO;
 using HuongDichVu.Entities;
 using Microsoft.AspNetCore.Mvc;
@@ -192,6 +193,61 @@ namespace WebService.Controllers
             }
 
             return Ok(genres);
+        }
+
+        [HttpGet("ColumnChart_CountByGenre")]
+
+        public IActionResult GetBooksCountByGenre()
+
+        {
+
+            var genreCounts = web_dataContext.Books
+
+              .GroupBy(b => b.Genre)
+
+              .Select(g => new GenreCount
+
+              {
+
+                  Genre = g.Key,
+
+                  Count = g.Count()
+
+              })
+
+              .ToList();
+
+
+
+            return Ok(genreCounts);
+
+        }
+
+        [HttpGet("LineChart_ViewCountperDay")]
+        public async Task<ActionResult<IEnumerable<ViewIncrementDTO>>> GetDailyViewIncrements()
+
+        {
+
+            var dailyViewData = await web_dataContext.DailyViews
+
+              .GroupBy(v => v.ViewDate)
+
+              .Select(g => new ViewIncrementDTO
+
+              {
+
+                  Date = g.Key,
+
+                  TotalViewIncrement = g.Sum(v => v.ViewCountDay)
+
+              }).OrderBy(v => v.Date)
+
+              .ToListAsync();
+
+
+
+            return Ok(dailyViewData);
+
         }
     }
 }
