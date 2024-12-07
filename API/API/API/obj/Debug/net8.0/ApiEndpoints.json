@@ -170,6 +170,26 @@
   },
   {
     "ContainingType": "WebService.Controllers.BookController",
+    "Method": "Get",
+    "RelativePath": "api/Book/GetAllBooks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[HuongDichVu.Entities.Book, API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebService.Controllers.BookController",
     "Method": "GetBookById",
     "RelativePath": "api/Book/GetBookById",
     "HttpMethod": "GET",
@@ -185,26 +205,6 @@
     "ReturnTypes": [
       {
         "Type": "HuongDichVu.DTO.BookDTO",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "WebService.Controllers.BookController",
-    "Method": "Get",
-    "RelativePath": "api/Book/GetBooks",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.List\u00601[[HuongDichVu.Entities.Book, API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
